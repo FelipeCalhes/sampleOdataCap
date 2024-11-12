@@ -7,7 +7,9 @@
   "private": true,
   "dependencies": {
     "@sap/cds": "^8",
-    "express": "^4"
+    "express": "^4",
+    "@sap-cloud-sdk/resilience": "^3.22.2",
+    "@sap-cloud-sdk/http-client": "^3.22.2"
   },
   "devDependencies": {
     "@cap-js/sqlite": "^1",
